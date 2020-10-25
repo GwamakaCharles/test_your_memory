@@ -22,7 +22,8 @@ You will need Expo tools to develop this app. You can get expo tools from [here]
 8. The app should be previewed on the Expo client app by now and every time you make changes to the files of the project, the app will reload automatically to display the latest version of the app.
 
 ## THE PROJECT STRUCTURE
-At this point the project structure should look like this:![](./Screenshots/initial.png)
+At this point the project structure should look like this:
+![](./Screenshots/Initial.png)
  1. The **assets** folder is used to store files that will be used as assets for the project, such as images.You'll find the two images: one that will be used as the application's icon on the Home screen once you've installed this application on your mobile device, and one that will serve as the splash screen that is displayed when you start the application.
 
  2. The **node_modules** folder stores all packages that are installed through a package manager such as yarn or npm, and will be used in the project.
